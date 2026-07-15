@@ -1,4 +1,4 @@
-# CatalyticMLLM
+# CatalyticMLLM: A Unified Graph--Text Multimodal Large Language Model for Property Prediction and Inverse Design of Catalytic Materials
 
 ![CatalyticMLLM overview](./Catalytic-2.png)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)

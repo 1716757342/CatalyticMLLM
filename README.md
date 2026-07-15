@@ -266,6 +266,20 @@ User> Please generate the corresponding CIF for this material.
 Assistant> data_...
 ```
 
+### Models & Weights (Hugging Face)
+
+Due to EMNLP2026’s double-blind policy, we were unable to identify a reliable way to release our checkpoints and dataset without risking the disclosure of personal or identifying information. To avoid potential desk rejection of the manuscript, we therefore choose to make the checkpoints publicly available after acceptance. Thank you for your understanding.
+
+| Directory | Name | Hugging Face Link |
+| --- | --- | --- |
+| `Qwen/` | Qwen2.5-VL-3B | https://huggingface.co/Qwen/Qwen2.5-3B-Instruct |
+| `Qwen/` | Qwen2.5-VL-7B | https://huggingface.co/Qwen/Qwen2.5-7B-Instruct |
+| `pretrained_equiformer_v2/` | Equiformer-V2 | ------|
+| `checkpoints/` | QE-Catalytic-3B | ------ |
+| `checkpoints/` | QE-Catalytic-7B | ------ |
+| `dataset/` | OC20-340k | ------ |
+| `dataset/` | OC20-24k | ------ |
+
 ## FAQ
 
 ### 1. Is `grpo_training_data.json` an offline answer set?

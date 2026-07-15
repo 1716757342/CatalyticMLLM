@@ -274,11 +274,10 @@ Due to EMNLP2026’s double-blind policy, we were unable to identify a reliable 
 | --- | --- | --- |
 | `Qwen/` | Qwen2.5-VL-3B | https://huggingface.co/Qwen/Qwen2.5-3B-Instruct |
 | `Qwen/` | Qwen2.5-VL-7B | https://huggingface.co/Qwen/Qwen2.5-7B-Instruct |
-| `pretrained_equiformer_v2/` | Equiformer-V2 | ------|
+| `pretrained_equiformer_v2/` | Equiformer-V2 | https://huggingface.co/Yanjie-CN/Equiformer-v2|
 | `checkpoints/` | QE-Catalytic-3B | ------ |
 | `checkpoints/` | QE-Catalytic-7B | ------ |
-| `dataset/` | OC20-340k | ------ |
-| `dataset/` | OC20-24k | ------ |
+| `dataset/` | CatalyticMLLM-OC20 |https://huggingface.co/datasets/Yanjie-CN/CatalyticMLLM-OC20|
 
 ## FAQ
 

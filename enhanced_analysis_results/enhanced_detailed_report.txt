@@ -1,0 +1,20 @@
+Enhanced Feature Similarity Analysis Detailed Report
+==================================================
+
+Analysis date: 2025-09-24T14:11:31
+Sample count: 100
+
+🏆 Best method:
+  Method name: Whitening transformation
+  Diagonal advantage: 0.709463
+  Diagonal similarity: 0.702369 ± 0.099755
+  Off-diagonal similarity: -0.007095 ± 0.028577
+  Rank@1 accuracy: 1.0000
+
+📊 Comparison of all methods:
+  1. Whitening transformation: advantage=0.709463, Rank@1=1.0000
+  2. Contrastive learning enhancement: advantage=0.178526, Rank@1=0.7600
+  3. Selective dimensions: advantage=0.153795, Rank@1=0.6000
+  4. Original method: advantage=0.146580, Rank@1=0.6200
+  5. Nonlinear transformation: advantage=0.117626, Rank@1=0.3400
+  6. Standardization+PCA: advantage=0.025833, Rank@1=0.0100

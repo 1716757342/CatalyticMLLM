@@ -1,0 +1,406 @@
+[
+  {
+    "prompt": "CHCH2OH</s>Ca8Ga16 (1 0 0) is the basic identification and chemical formula of a crystal material. Please generate the corresponding CIF (Crystallographic Information File) according to this information.",
+    "expected_atoms": {
+      "Ca": 8,
+      "Ga": 16,
+      "H": 4,
+      "C": 2,
+      "O": 1
+    }
+  },
+  {
+    "prompt": "Design a CIF file for the catalytic adsorption system CHCH2OH</s>Ca8Ga16 (1 0 0) with a target relaxed energy of -3.88 eV.",
+    "expected_atoms": {
+      "Ca": 8,
+      "Ga": 16,
+      "H": 4,
+      "C": 2,
+      "O": 1
+    }
+  },
+  {
+    "prompt": "NH2N(CH3)2</s>Te48Mo6W18 (2 1 2) is the basic identification and chemical formula of a crystal material. Please generate the corresponding CIF (Crystallographic Information File) according to this information.",
+    "expected_atoms": {
+      "Te": 48,
+      "Mo": 6,
+      "H": 8,
+      "W": 18,
+      "C": 2,
+      "N": 2
+    }
+  },
+  {
+    "prompt": "Design a CIF file for the catalytic adsorption system NH2N(CH3)2</s>Te48Mo6W18 (2 1 2) with a target relaxed energy of -3.84 eV.",
+    "expected_atoms": {
+      "Te": 48,
+      "Mo": 6,
+      "H": 8,
+      "W": 18,
+      "C": 2,
+      "N": 2
+    }
+  },
+  {
+    "prompt": "ONOH</s>Ta18V18Si72 (1 1 2) is the basic identification and chemical formula of a crystal material. Please generate the corresponding CIF (Crystallographic Information File) according to this information.",
+    "expected_atoms": {
+      "Ta": 18,
+      "V": 18,
+      "Si": 72,
+      "H": 1,
+      "N": 1,
+      "O": 2
+    }
+  },
+  {
+    "prompt": "Design a CIF file for the catalytic adsorption system ONOH</s>Ta18V18Si72 (1 1 2) with a target relaxed energy of 1.19 eV.",
+    "expected_atoms": {
+      "Ta": 18,
+      "V": 18,
+      "Si": 72,
+      "H": 1,
+      "N": 1,
+      "O": 2
+    }
+  },
+  {
+    "prompt": "CH</s>Nb48Sn16 (2 1 1) is the basic identification and chemical formula of a crystal material. Please generate the corresponding CIF (Crystallographic Information File) according to this information.",
+    "expected_atoms": {
+      "Nb": 48,
+      "Sn": 16,
+      "H": 1,
+      "C": 1
+    }
+  },
+  {
+    "prompt": "Design a CIF file for the catalytic adsorption system CH</s>Nb48Sn16 (2 1 1) with a target relaxed energy of -1.49 eV.",
+    "expected_atoms": {
+      "Nb": 48,
+      "Sn": 16,
+      "H": 1,
+      "C": 1
+    }
+  },
+  {
+    "prompt": "ONOH</s>Ti36Al18N19 (1 0 1) is the basic identification and chemical formula of a crystal material. Please generate the corresponding CIF (Crystallographic Information File) according to this information.",
+    "expected_atoms": {
+      "Ti": 36,
+      "Al": 18,
+      "H": 1,
+      "N": 19,
+      "O": 2
+    }
+  },
+  {
+    "prompt": "Design a CIF file for the catalytic adsorption system ONOH</s>Ti36Al18N19 (1 0 1) with a target relaxed energy of 3.72 eV.",
+    "expected_atoms": {
+      "Ti": 36,
+      "Al": 18,
+      "H": 1,
+      "N": 19,
+      "O": 2
+    }
+  },
+  {
+    "prompt": "CHO</s>Mo128N64 (2 2 1) is the basic identification and chemical formula of a crystal material. Please generate the corresponding CIF (Crystallographic Information File) according to this information.",
+    "expected_atoms": {
+      "Mo": 128,
+      "H": 1,
+      "C": 1,
+      "N": 64,
+      "O": 1
+    }
+  },
+  {
+    "prompt": "Design a CIF file for the catalytic adsorption system CHO</s>Mo128N64 (2 2 1) with a target relaxed energy of -2.99 eV.",
+    "expected_atoms": {
+      "Mo": 128,
+      "H": 1,
+      "C": 1,
+      "N": 64,
+      "O": 1
+    }
+  },
+  {
+    "prompt": "ONOH</s>Re36Os36 (2 1 1) is the basic identification and chemical formula of a crystal material. Please generate the corresponding CIF (Crystallographic Information File) according to this information.",
+    "expected_atoms": {
+      "Re": 36,
+      "H": 1,
+      "Os": 36,
+      "N": 1,
+      "O": 2
+    }
+  },
+  {
+    "prompt": "Design a CIF file for the catalytic adsorption system ONOH</s>Re36Os36 (2 1 1) with a target relaxed energy of 3.28 eV.",
+    "expected_atoms": {
+      "Re": 36,
+      "H": 1,
+      "Os": 36,
+      "N": 1,
+      "O": 2
+    }
+  },
+  {
+    "prompt": "COCH2OH</s>Si24Pd108 (1 0 2) is the basic identification and chemical formula of a crystal material. Please generate the corresponding CIF (Crystallographic Information File) according to this information.",
+    "expected_atoms": {
+      "Si": 24,
+      "H": 3,
+      "Pd": 108,
+      "C": 2,
+      "O": 2
+    }
+  },
+  {
+    "prompt": "Design a CIF file for the catalytic adsorption system COCH2OH</s>Si24Pd108 (1 0 2) with a target relaxed energy of -1.56 eV.",
+    "expected_atoms": {
+      "Si": 24,
+      "H": 3,
+      "Pd": 108,
+      "C": 2,
+      "O": 2
+    }
+  },
+  {
+    "prompt": "COCH2OH</s>Ni36Sn6Te12 (1 0 1) is the basic identification and chemical formula of a crystal material. Please generate the corresponding CIF (Crystallographic Information File) according to this information.",
+    "expected_atoms": {
+      "Ni": 36,
+      "Sn": 6,
+      "Te": 12,
+      "H": 3,
+      "C": 2,
+      "O": 2
+    }
+  },
+  {
+    "prompt": "Design a CIF file for the catalytic adsorption system COCH2OH</s>Ni36Sn6Te12 (1 0 1) with a target relaxed energy of -1.77 eV.",
+    "expected_atoms": {
+      "Ni": 36,
+      "Sn": 6,
+      "Te": 12,
+      "H": 3,
+      "C": 2,
+      "O": 2
+    }
+  },
+  {
+    "prompt": "CHO</s>Ta48Zn48Co96 (2 1 0) is the basic identification and chemical formula of a crystal material. Please generate the corresponding CIF (Crystallographic Information File) according to this information.",
+    "expected_atoms": {
+      "Ta": 48,
+      "Zn": 48,
+      "Co": 96,
+      "H": 2,
+      "C": 2,
+      "O": 2
+    }
+  },
+  {
+    "prompt": "Design a CIF file for the catalytic adsorption system CHO</s>Ta48Zn48Co96 (2 1 0) with a target relaxed energy of -1.79 eV.",
+    "expected_atoms": {
+      "Ta": 48,
+      "Zn": 48,
+      "Co": 96,
+      "H": 2,
+      "C": 2,
+      "O": 2
+    }
+  },
+  {
+    "prompt": "CH</s>Zr20Ir12 (1 0 0) is the basic identification and chemical formula of a crystal material. Please generate the corresponding CIF (Crystallographic Information File) according to this information.",
+    "expected_atoms": {
+      "Zr": 20,
+      "H": 1,
+      "Ir": 12,
+      "C": 1
+    }
+  },
+  {
+    "prompt": "Design a CIF file for the catalytic adsorption system CH</s>Zr20Ir12 (1 0 0) with a target relaxed energy of -0.12 eV.",
+    "expected_atoms": {
+      "Zr": 20,
+      "H": 1,
+      "Ir": 12,
+      "C": 1
+    }
+  },
+  {
+    "prompt": "CHOCH2OH</s>Zr48Ge16 (1 0 0) is the basic identification and chemical formula of a crystal material. Please generate the corresponding CIF (Crystallographic Information File) according to this information.",
+    "expected_atoms": {
+      "Zr": 48,
+      "Ge": 16,
+      "H": 4,
+      "C": 2,
+      "O": 2
+    }
+  },
+  {
+    "prompt": "Design a CIF file for the catalytic adsorption system CHOCH2OH</s>Zr48Ge16 (1 0 0) with a target relaxed energy of -4.02 eV.",
+    "expected_atoms": {
+      "Zr": 48,
+      "Ge": 16,
+      "H": 4,
+      "C": 2,
+      "O": 2
+    }
+  },
+  {
+    "prompt": "CH2CH3</s>Sb32Pd16 (2 1 1) is the basic identification and chemical formula of a crystal material. Please generate the corresponding CIF (Crystallographic Information File) according to this information.",
+    "expected_atoms": {
+      "Sb": 32,
+      "H": 5,
+      "Pd": 16,
+      "C": 2
+    }
+  },
+  {
+    "prompt": "Design a CIF file for the catalytic adsorption system CH2CH3</s>Sb32Pd16 (2 1 1) with a target relaxed energy of -3.8 eV.",
+    "expected_atoms": {
+      "Sb": 32,
+      "H": 5,
+      "Pd": 16,
+      "C": 2
+    }
+  },
+  {
+    "prompt": "COH</s>Al36Ni27Pt9 (1 0 1) is the basic identification and chemical formula of a crystal material. Please generate the corresponding CIF (Crystallographic Information File) according to this information.",
+    "expected_atoms": {
+      "Al": 36,
+      "Ni": 27,
+      "H": 1,
+      "Pt": 9,
+      "C": 1,
+      "O": 1
+    }
+  },
+  {
+    "prompt": "Design a CIF file for the catalytic adsorption system COH</s>Al36Ni27Pt9 (1 0 1) with a target relaxed energy of -1.22 eV.",
+    "expected_atoms": {
+      "Al": 36,
+      "Ni": 27,
+      "H": 1,
+      "Pt": 9,
+      "C": 1,
+      "O": 1
+    }
+  },
+  {
+    "prompt": "NH2N(CH3)2</s>Zr20Fe20Te20 (2 2 1) is the basic identification and chemical formula of a crystal material. Please generate the corresponding CIF (Crystallographic Information File) according to this information.",
+    "expected_atoms": {
+      "Zr": 20,
+      "Fe": 20,
+      "Te": 20,
+      "H": 8,
+      "C": 2,
+      "N": 2
+    }
+  },
+  {
+    "prompt": "Design a CIF file for the catalytic adsorption system NH2N(CH3)2</s>Zr20Fe20Te20 (2 2 1) with a target relaxed energy of -3.55 eV.",
+    "expected_atoms": {
+      "Zr": 20,
+      "Fe": 20,
+      "Te": 20,
+      "H": 8,
+      "C": 2,
+      "N": 2
+    }
+  },
+  {
+    "prompt": "CHCHO</s>Hf16Au48 (0 1 1) is the basic identification and chemical formula of a crystal material. Please generate the corresponding CIF (Crystallographic Information File) according to this information.",
+    "expected_atoms": {
+      "Hf": 16,
+      "H": 2,
+      "Au": 48,
+      "C": 2,
+      "O": 1
+    }
+  },
+  {
+    "prompt": "Design a CIF file for the catalytic adsorption system CHCHO</s>Hf16Au48 (0 1 1) with a target relaxed energy of -1.22 eV.",
+    "expected_atoms": {
+      "Hf": 16,
+      "H": 2,
+      "Au": 48,
+      "C": 2,
+      "O": 1
+    }
+  },
+  {
+    "prompt": "N</s>Pt24Pb48 (2 1 0) is the basic identification and chemical formula of a crystal material. Please generate the corresponding CIF (Crystallographic Information File) according to this information.",
+    "expected_atoms": {
+      "Pt": 24,
+      "Pb": 48,
+      "N": 1
+    }
+  },
+  {
+    "prompt": "Design a CIF file for the catalytic adsorption system N</s>Pt24Pb48 (2 1 0) with a target relaxed energy of 3.05 eV.",
+    "expected_atoms": {
+      "Pt": 24,
+      "Pb": 48,
+      "N": 1
+    }
+  },
+  {
+    "prompt": "COH</s>Ca80Ir16 (1 0 1) is the basic identification and chemical formula of a crystal material. Please generate the corresponding CIF (Crystallographic Information File) according to this information.",
+    "expected_atoms": {
+      "Ca": 80,
+      "H": 1,
+      "Ir": 16,
+      "C": 1,
+      "O": 1
+    }
+  },
+  {
+    "prompt": "Design a CIF file for the catalytic adsorption system COH</s>Ca80Ir16 (1 0 1) with a target relaxed energy of -0.39 eV.",
+    "expected_atoms": {
+      "Ca": 80,
+      "H": 1,
+      "Ir": 16,
+      "C": 1,
+      "O": 1
+    }
+  },
+  {
+    "prompt": "CHOCH2OH</s>Tl8Cu32Se24 (1 1 1) is the basic identification and chemical formula of a crystal material. Please generate the corresponding CIF (Crystallographic Information File) according to this information.",
+    "expected_atoms": {
+      "Tl": 8,
+      "Cu": 32,
+      "H": 4,
+      "C": 2,
+      "Se": 24,
+      "O": 2
+    }
+  },
+  {
+    "prompt": "Design a CIF file for the catalytic adsorption system CHOCH2OH</s>Tl8Cu32Se24 (1 1 1) with a target relaxed energy of -2.0 eV.",
+    "expected_atoms": {
+      "Tl": 8,
+      "Cu": 32,
+      "H": 4,
+      "C": 2,
+      "Se": 24,
+      "O": 2
+    }
+  },
+  {
+    "prompt": "COCH2OH</s>Hf24Co24 (0 1 0) is the basic identification and chemical formula of a crystal material. Please generate the corresponding CIF (Crystallographic Information File) according to this information.",
+    "expected_atoms": {
+      "Hf": 24,
+      "Co": 24,
+      "H": 3,
+      "C": 2,
+      "O": 2
+    }
+  },
+  {
+    "prompt": "Design a CIF file for the catalytic adsorption system COCH2OH</s>Hf24Co24 (0 1 0) with a target relaxed energy of -3.14 eV.",
+    "expected_atoms": {
+      "Hf": 24,
+      "Co": 24,
+      "H": 3,
+      "C": 2,
+      "O": 2
+    }
+  }
+]

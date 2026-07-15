@@ -1,0 +1,86 @@
+[
+  {
+    "method": "\u539f\u59cb\u65b9\u6cd5",
+    "diagonal_mean": 0.6786893606185913,
+    "diagonal_std": 0.1669340580701828,
+    "off_diagonal_mean": 0.5321094989776611,
+    "off_diagonal_std": 0.12241578847169876,
+    "difference": 0.14657986164093018,
+    "rank_accuracies": {
+      "rank_1": 0.62,
+      "rank_3": 0.71,
+      "rank_5": 0.74,
+      "rank_10": 0.78
+    }
+  },
+  {
+    "method": "\u6807\u51c6\u5316+PCA",
+    "diagonal_mean": 0.031790196895599365,
+    "diagonal_std": 0.25690358877182007,
+    "off_diagonal_mean": 0.005957082379609346,
+    "off_diagonal_std": 0.2650567591190338,
+    "difference": 0.025833114981651306,
+    "rank_accuracies": {
+      "rank_1": 0.01,
+      "rank_3": 0.06,
+      "rank_5": 0.07,
+      "rank_10": 0.12
+    }
+  },
+  {
+    "method": "\u5bf9\u6bd4\u5b66\u4e60\u589e\u5f3a",
+    "diagonal_mean": 0.7778549194335938,
+    "diagonal_std": 0.12180984020233154,
+    "off_diagonal_mean": 0.5993285179138184,
+    "off_diagonal_std": 0.11117947846651077,
+    "difference": 0.1785264015197754,
+    "rank_accuracies": {
+      "rank_1": 0.76,
+      "rank_3": 0.81,
+      "rank_5": 0.89,
+      "rank_10": 0.94
+    }
+  },
+  {
+    "method": "\u9009\u62e9\u6027\u7ef4\u5ea6",
+    "diagonal_mean": 0.7078008055686951,
+    "diagonal_std": 0.15962202847003937,
+    "off_diagonal_mean": 0.5540055632591248,
+    "off_diagonal_std": 0.13423126935958862,
+    "difference": 0.1537952423095703,
+    "rank_accuracies": {
+      "rank_1": 0.6,
+      "rank_3": 0.68,
+      "rank_5": 0.71,
+      "rank_10": 0.76
+    }
+  },
+  {
+    "method": "\u975e\u7ebf\u6027\u53d8\u6362",
+    "diagonal_mean": 0.7455816864967346,
+    "diagonal_std": 0.1618882566690445,
+    "off_diagonal_mean": 0.6279560327529907,
+    "off_diagonal_std": 0.15580977499485016,
+    "difference": 0.1176256537437439,
+    "rank_accuracies": {
+      "rank_1": 0.34,
+      "rank_3": 0.45,
+      "rank_5": 0.5,
+      "rank_10": 0.6
+    }
+  },
+  {
+    "method": "\u767d\u5316\u53d8\u6362",
+    "diagonal_mean": 0.7023688554763794,
+    "diagonal_std": 0.09975527226924896,
+    "off_diagonal_mean": -0.007094634231179953,
+    "off_diagonal_std": 0.02857733517885208,
+    "difference": 0.7094634771347046,
+    "rank_accuracies": {
+      "rank_1": 1.0,
+      "rank_3": 1.0,
+      "rank_5": 1.0,
+      "rank_10": 1.0
+    }
+  }
+]

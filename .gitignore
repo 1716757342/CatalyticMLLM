@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+*.log
+*.tmp
+.DS_Store
+
+checkpoints/
+outputs/
+runs/
+wandb/
+
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+
+# Large local training datasets should be downloaded/generated separately.
+data_many_turn/training_data_many_turns*.json

@@ -1,0 +1,38 @@
+{
+  "model_path": "/path/to/merged_model",
+  "expected_answer": "The relaxed energy of this molecule is -1.0988140599999952。",
+  "results": [
+    {
+      "config": "Greedy decoding",
+      "full_text": " 0.567894999999999。<|im_end|>",
+      "clean_text": " 0.567894999999999。",
+      "is_complete": false,
+      "has_unit": false,
+      "length": 19
+    },
+    {
+      "config": "Low-temperature sampling (temp=0.3)",
+      "full_text": " 0.2599609700000074。<|im_end|>",
+      "clean_text": " 0.2599609700000074。",
+      "is_complete": false,
+      "has_unit": false,
+      "length": 20
+    },
+    {
+      "config": "Medium-temperature sampling (temp=0.7)",
+      "full_text": " 0.48499955000000147。<|im_end|>",
+      "clean_text": " 0.48499955000000147。",
+      "is_complete": false,
+      "has_unit": false,
+      "length": 21
+    },
+    {
+      "config": "High-temperature sampling (temp=1.0)",
+      "full_text": " 0.2468895700000473。<|im_end|>",
+      "clean_text": " 0.2468895700000473。",
+      "is_complete": false,
+      "has_unit": false,
+      "length": 20
+    }
+  ]
+}

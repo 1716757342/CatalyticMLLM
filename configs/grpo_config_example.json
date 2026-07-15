@@ -1,0 +1,73 @@
+{
+  "model_config": {
+    "base_model_path": "/path/to/base_model",
+    "finetuned_model_path": "/path/to/finetuned_model",
+    "output_dir": "/path/to/output_dir"
+  },
+  
+  "data_config": {
+    "training_data_path": "/path/to/training_data.json",
+    "preference_data_path": "/path/to/preference_data.json",
+    "test_data_path": "/path/to/test_data.json"
+  },
+  
+  "preference_generation_config": {
+    "num_samples": 1000,
+    "num_candidates": 4,
+    "min_reward_diff": 1.0,
+    "generation_configs": [
+      {"temperature": 0.7, "top_p": 0.9, "do_sample": true},
+      {"temperature": 1.0, "top_p": 0.8, "do_sample": true},
+      {"temperature": 0.5, "top_k": 50, "do_sample": true},
+      {"temperature": 0.3, "top_p": 0.95, "do_sample": true},
+      {"do_sample": false}
+    ]
+  },
+  
+  "reward_model_config": {
+    "tolerance_levels": {
+      "excellent": 0.01,
+      "good": 0.05,
+      "acceptable": 0.1,
+      "poor": 0.5,
+      "very_poor": "inf"
+    },
+    "reward_mapping": {
+      "excellent": 10.0,
+      "good": 5.0,
+      "acceptable": 2.0,
+      "poor": -2.0,
+      "very_poor": -10.0
+    }
+  },
+  
+  "grpo_training_config": {
+    "beta": 0.1,
+    "label_smoothing": 0.0,
+    "reference_free": false,
+    "learning_rate": 5e-6,
+    "num_epochs": 2,
+    "per_device_batch_size": 1,
+    "gradient_accumulation_steps": 2,
+    "warmup_ratio": 0.1,
+    "weight_decay": 0.01,
+    "max_grad_norm": 1.0,
+    "logging_steps": 10,
+    "save_steps": 500,
+    "save_total_limit": 3
+  },
+  
+  "hardware_config": {
+    "cuda_visible_devices": "1,2,3,4,5,6,7",
+    "num_gpus": 7,
+    "master_addr": "10.3.2.7",
+    "deepspeed_config": "qwen-vl-finetune/scripts/zero2.json"
+  },
+  
+  "evaluation_config": {
+    "metrics": ["mae", "rmse", "r_squared", "accuracy", "reward_mean"],
+    "num_eval_samples": 500,
+    "create_plots": true,
+    "save_detailed_results": true
+  }
+}

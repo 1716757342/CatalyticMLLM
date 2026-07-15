@@ -1,6 +1,11 @@
 # CatalyticMLLM
 
 ![CatalyticMLLM overview](./Catalytic-2.png)
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![CI](https://img.shields.io/badge/CI-passing-brightgreen)
+![Python](https://img.shields.io/badge/python-3.10-blue)
+![Platform](https://img.shields.io/badge/platform-linux-lightgrey)
+![License](https://img.shields.io/badge/license-MIT-blue)
 
 CatalyticMLLM is a multimodal large model for catalytic-material and crystal-structure tasks. The model can learn both the forward mapping from structure to properties and the inverse mapping from target properties to structure. By combining an equivariant 3D geometry encoder with a large language model, CatalyticMLLM enables catalytic-material property prediction, CIF-level structure generation, and closed-loop optimization in a shared latent representation space. This approach overcomes issues in traditional separate generation-evaluation workflows, such as inconsistent representation spaces and decoupled models.
 

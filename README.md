@@ -366,11 +366,7 @@ JSON_DATA_PATH = "/path/to/inference/data.json"
 
 Example session:
 
-```text
-Enter test sample id: random759040_cif
-User> Please generate the corresponding CIF for this material.
-Assistant> data_...
-```
+<img src="./infer.gif" alt="CatalyticMLLM overview" width="900">
 
 ---
 

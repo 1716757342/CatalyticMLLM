@@ -171,7 +171,7 @@ Main configuration:
 ```bash
 MODEL_PATH="/path/to/base_model"
 OUTPUT_DIR="/path/to/output_dir"
-DATASETS="MOLECULE_RELAXED_ENERGY_TUSNS_24K%100"
+DATASETS="MOLECULE_RELAXED_ENERGY_TUSNS_340K%100"
 ```
 
 > [!NOTE]

@@ -374,8 +374,8 @@ Example session:
 
 | Directory | Model / Dataset | Hugging Face |
 | --- | --- | --- |
-| `Qwen/` | Qwen2.5-VL-3B | [Qwen/Qwen2.5-3B-Instruct](https://huggingface.co/Qwen/Qwen2.5-3B-Instruct) |
-| `Qwen/` | Qwen2.5-VL-7B | [Qwen/Qwen2.5-7B-Instruct](https://huggingface.co/Qwen/Qwen2.5-7B-Instruct) |
+| `Qwen/` | Qwen2.5-VL-3B | [Qwen/Qwen2.5-3B-Instruct](https://huggingface.co/Qwen/Qwen2.5-VL-3B-Instruct) |
+| `Qwen/` | Qwen2.5-VL-7B | [Qwen/Qwen2.5-7B-Instruct](https://huggingface.co/Qwen/Qwen2.5-VL-7B-Instruct) |
 | `pretrained_equiformer_v2/` | Equiformer-V2 | [Yanjie-CN/Equiformer-v2](https://huggingface.co/Yanjie-CN/Equiformer-v2) |
 | `checkpoints/` | CatalyticMLLM-3B | [Yanjie-CN/CatalyticMLLM-3B](https://huggingface.co/Yanjie-CN/CatalyticMLLM-3B/tree/main) |
 | `dataset/` | CatalyticMLLM-OC20 | [Yanjie-CN/CatalyticMLLM-OC20](https://huggingface.co/datasets/Yanjie-CN/CatalyticMLLM-OC20) |

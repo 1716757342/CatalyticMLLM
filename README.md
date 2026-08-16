@@ -461,6 +461,6 @@ Adjust the paths according to the Stage 1 or Stage 2 output directory.
 
 <div align="center">
 
-**CatalyticMLLM — bridging 3D catalytic structures and language-model reasoning.**
+**CatalyticMLLM — Unified Materials Property Prediction and Inverse Design.**
 
 </div>
